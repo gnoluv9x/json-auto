@@ -1,0 +1,60 @@
+{
+    "restaurants": [
+        {
+            "restaurantId": "123",
+            "restaurantName": "vulong",
+            "address": "phutho",
+            "status": "false",
+            "phoneNumber": "123213",
+            "sets": [
+                {
+                    "setId": "1",
+                    "description": "mon 1, mon 2, mon 3",
+                    "setName": "Ca"
+                }
+            ]
+        },
+        {
+            "restaurantId": "234",
+            "restaurantName": "vulong2",
+            "address": "lamthao",
+            "status": "true",
+            "phoneNumber": "234324",
+            "sets": [
+                {
+                    "setId": "2",
+                    "description": "mon 1, mon 2, mon 3",
+                    "setName": "Thit"
+                }
+            ]
+        },
+        {
+            "restaurantId": "234534",
+            "restaurantName": "vulong3",
+            "address": "lamthao2",
+            "status": "false",
+            "phoneNumber": "345435",
+            "sets": [
+                {
+                    "setId": "3",
+                    "description": "mon 1, mon 2, mon 3",
+                    "setName": "Rau"
+                }
+            ]
+        },
+        {
+            "restaurantId": "546456",
+            "restaurantName": "vulong4",
+            "address": "hungson",
+            "status": "true",
+            "phoneNumber": "567567",
+            "sets": [
+                {
+                    "setId": "4",
+                    "description": "mon 1, mon 2, mon 3",
+                    "setName": "Co"
+                }
+            ]
+        }
+    ]
+}
