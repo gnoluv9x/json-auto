@@ -1,0 +1,24 @@
+{
+    "name": "json-server-auto",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node random.js && json-server db.json --id restaurantId --port 4040"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vuLongLtPt/json-auto.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vuLongLtPt/json-auto/issues"
+    },
+    "homepage": "https://github.com/vuLongLtPt/json-auto#readme",
+    "dependencies": {
+        "@faker-js/faker": "^6.0.0-alpha.5"
+    }
+}
